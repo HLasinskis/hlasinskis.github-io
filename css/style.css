@@ -5,6 +5,11 @@ html, body {
     color: #121212;
 }
 
+}
+.container-fluid {
+    padding-top: 2.5em;
+    padding-bottom: 2.5em;
+}
 
 .navbar-brand img {
     width: 20%;
